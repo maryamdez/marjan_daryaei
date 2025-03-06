@@ -11,7 +11,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="marjan_daryaei"
+        android:text="marjan_daryaei maryam"
         android:textColor="#0E46D7"
         android:textSize="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
